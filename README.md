@@ -77,8 +77,10 @@ Hvor enn du bruker easychart:
 ```python
 chart = easychart.new("column")
 # ... hva enn du måtte ønske å gjøre på `chart`
-easychart.render(chart, theme="../quarto-tweaks/easychart-theme.json") # theme må sannsynligvis endres basert på hvor .qmd-filen ligger,
-                                                                       # relativt til hvor easychart-theme.json ligger
+
+# theme må sannsynligvis endres basert på hvor .qmd-filen ligger,
+# relativt til hvor easychart-theme.json ligger
+easychart.render(chart, theme="../quarto-tweaks/easychart-theme.json")                         
 ```
 
 ### `nav-logo-red.svg`
