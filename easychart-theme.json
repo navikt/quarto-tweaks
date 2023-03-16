@@ -1,0 +1,141 @@
+{
+    "colors": [
+        "#3386E0",
+        "#99C4DD",
+        "#005B82",
+        "#D47B00",
+        "#FFC166",
+        "#368DA8",
+        "#66CBEC",
+        "#33AA5F",
+        "#99DEAD",
+        "#8269A2",
+        "#C0B2D2"
+    ],
+    "title": {
+        "style": {
+            "color": "#262626",
+            "font": "bold 14px Source Sans Pro, sans-serif"
+        },
+        "align": "left",
+        "text": null
+    },
+    "subtitle": {
+        "style": {
+            "color": "#262626",
+            "font": "12px Source Sans Pro, sans-serif"
+        },
+        "align": "left",
+        "text": null
+    },
+    "legend": {
+        "layout": "horizontal",
+        "align": "left",
+        "verticalAlign": "bottom",
+        "itemStyle": {
+            "font": "9pt Source Sans Pro, sans-serif",
+            "color": "#262626"
+        }
+    },
+    "tooltip": {
+        "backgroundColor": "rgba(0, 0, 0, 0.75)",
+        "style": {
+            "color": "#F0F0F0",
+            "font": "Source Sans Pro"
+        },
+        "shared": true,
+        "valueDecimals": 2
+    },
+    "xAxis": {
+        "gridLineColor": "#eeeeee",
+        "gridLineWidth": 1,
+        "gridLineDashStyle": "dash",
+        "lineColor": "#262626",
+        "lineWidth": 1,
+        "labels": {
+            "style": {
+                "color": "#262626",
+                "font": "Source Sans Pro"
+            }
+        },
+        "title": {
+            "text": null,
+            "style": {
+                "color": "#262626",
+                "font": "Source Sans Pro"
+            }
+        },
+        "tickColor": "#262626",
+        "tickPosition": "outside",
+        "tickLength": 5
+    },
+    "yAxis": {
+        "gridLineColor": "#eeeeee",
+        "gridLineWidth": 1,
+        "gridLineDashStyle": "dash",
+        "lineColor": "#262626",
+        "lineWidth": 1,
+        "labels": {
+            "style": {
+                "color": "#262626",
+                "font": "Source Sans Pro"
+            }
+        },
+        "tickColor": "#262626",
+        "tickPosition": "outside",
+        "tickLength": 5,
+        "tickWidth": 1,
+        "title": {
+            "text": null,
+            "style": {
+                "color": "#262626",
+                "font": "Source Sans Pro"
+            }
+        }
+    },
+    "credits": {
+        "style": {
+            "color": "#666"
+        },
+        "position": {
+            "align": "left",
+            "x": 50
+        },
+        "text": "",
+        "href": null
+    },
+    "plotOptions": {
+        "chart": {
+            "animation": false
+        },
+        "series": {
+            "dataLabels": {
+                "style": {
+                    "textOutline": false,
+                    "fontWeight":"normal"
+                }
+            }
+        },
+        "line": {
+            "animation": false
+        },
+        "pie": {
+            "showInLegend": true,
+            "dataLabels": {
+                "enabled": false
+            }
+        },
+        "column": {
+            "pointPadding": 0.1,
+            "borderWidth": 0,
+            "groupPadding": 0.1
+        },
+        "scatter": {
+            "marker": {
+                "radius": 3,
+                "enabled": true,
+                "symbol": "circle"
+            }
+        }
+    }
+}
