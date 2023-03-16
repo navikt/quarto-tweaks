@@ -37,7 +37,7 @@ Altså, ved oppdatering må du kopiere filer inn på nytt.
 ## Filer
 
 Her er en liste over filer som kan være til nytte for deg.
-Eksemplene antar at du benytter submodule.
+Eksemplene antar at du benytter dette repoet som submodul.
 
 ### `_quarto_language.yml`
 
