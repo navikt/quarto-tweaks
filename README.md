@@ -9,7 +9,7 @@ Man kan ta i bruk disse filene på et par vis.
 
 ### `git submodule`
 
-Man kan integrere disse filene til ditt eget prosjekt ved hjelp av `git submodule`.
+Man kan integrere disse filene til sitt eget prosjekt ved hjelp av `git submodule`.
 Mens du befinner deg i grunnkatalogen til prosjektet ditt:
 
 ```bash
