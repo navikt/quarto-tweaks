@@ -13,3 +13,5 @@ git add .
 git commit -m "jeg gjorde noen kule endringer!"
 git push -u origin min-endring
 ```
+
+Lag deretter en PR, så prøver vi å se over så kjapt som vi kan!!
